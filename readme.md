@@ -6,7 +6,7 @@ OBS: dinamica basica baseada em scrum para desenvolvido de um trabalho de faculd
 
 ### >>> SPRINT BACKLOG
 
-Onde fica os componentes a serem desenvoldos.  
+Onde fica os componentes a serem desenvolvidos.  
 ![sprint_backlog](./img/a_sprint_01.png)
 
 cada card tem um checklist do que sera criado em 'Tasks'  
